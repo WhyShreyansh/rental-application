@@ -2,7 +2,7 @@
    ROOT & RESET
    ============================ */
 :root {
-  --primary: #FF4F00;
+  --                   primary: #FF4F00;
   --primary-dark: #CC3D00;
   --primary-light: #FF7A3D;
   --accent: #FFD600;
