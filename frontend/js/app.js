@@ -1,4 +1,4 @@
-                             let currentPage = 1;
+let currentPage = 1;
 let currentFilters = { type: '', category: '', search: '', sort: '', location: '' };
 
 // Type buttons
