@@ -1,4 +1,4 @@
-                          function initAuth() {
+function initAuth() {
   const token = localStorage.getItem('token');
   const user = JSON.parse(localStorage.getItem('user') || 'null');
   const navAuth = document.getElementById('nav-auth');
